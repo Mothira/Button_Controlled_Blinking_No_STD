@@ -1,2 +1,3 @@
 # Button Controlled Blinking with no standard library
-Wokwi GPIO projects using rust programming language on a ESP32-C3 board
+Wokwi simulator project to control the rate of an LED blinking via an interrupt
+Link to project: https://wokwi.com/projects/419634974949638145
